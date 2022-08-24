@@ -126,7 +126,7 @@ namespace DungeonApp
                         case ConsoleKey.X:
                         case ConsoleKey.E:
 
-                            Console.WriteLine("Yeah, I understand. No hard feelings, I plan on spending more time on this project");
+                            Console.WriteLine("I hope being a chicken keeps you up at night");
 
                             exit = true;
                             break;
